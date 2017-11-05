@@ -6,11 +6,12 @@ Project Description:
   
 	Database            :  Mysql
 
-Project Manager: Dr. Kazi Masudul Alam
+Project Manager: 
+		      Dr. Kazi Masudul Alam
 
 	               Associate Professor
                  
-                 Computer Science & Engineering Discipline
+                     Computer Science & Engineering Discipline
                  
 	               Khulna University, Khulna, Bangladesh 
                  
