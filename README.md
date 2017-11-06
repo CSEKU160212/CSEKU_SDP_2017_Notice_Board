@@ -60,7 +60,10 @@ Project Full Description:
 **user can edit their own notice and  delete notice
 
 ** user can subscribe other batch for all type notice
+
 **discipline admin can select the batch admin and delete users
+
 ** varsity admin can see the discipline under it and create new discipline
+
 ** any varsity can use it only make their own database
 
