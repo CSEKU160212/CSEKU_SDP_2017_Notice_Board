@@ -25,6 +25,10 @@ Project Manager:
 		            Computer Science & Engineering Discipline
                 
 		            Khulna University, Khulna, Bangladesh
+			    
+
+Project Location: Computer Science & Engineering Discipline, Khulna Univarsity, Khulna Bangladesh
+
 
 
 Developed By: 
